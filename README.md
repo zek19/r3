@@ -1,105 +1,12 @@
 # r3
 
-<body contenteditable="false">
-
-
-<p><a href="https://www.youtube.com/watch?v=tnEF0-bd9GU">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=obQwunBhxa0">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Yglg4wi-djo">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=p8pLCA-KjpM">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=UOJ6bs3LXYo">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=x59Wk7hPK3w">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=zJ8NwKF0M7k">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=dY2o_GGnFcE">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=d9GiskX506o">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=3NloTK1Wycg">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=zjVBZ467zUQ">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Ou8z8_ppCEs">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=7eEcym5sGiw">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=gdkGCAIQo5M">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=NPGlIGy4Pzk">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=CHG_dA-Xpio">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=cZLlQ0lKRXM">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=fI2UE9Q_ZjU">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Z0okK7pODTY">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=G_sxsBLN67E">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=OwLIoiG-CkI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=2rWPU-FO7dI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=BPxP-mKnvYA">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=9ZwXd78Fdlk">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=vMlLSoPFbbE">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=kx08rNzHV70">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=oXOQzJoNMwQ">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=vV6Q5QC3z28">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=yizc9D17Baw">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=fho2hGioahs">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=skKBcDpp9qY">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=OFyQMVZq7HY">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Nz8ZltObFII">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Pnc_tTjtPoM">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=d6r1fSaWizE">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=3BKbEG1gkB0">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=SyXEP6DJ09g">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=MpJjftkub24">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=6ozbH4vRqyg">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=F0yxmBSSI60">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=cSzQOfW1w-8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=8zVIPAGzxb8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=3BdL31NoUSI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=DkNB1EEeQ0Y">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=_FQIIky6S9E">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=flwMzFBmSxY">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ov-PV_WLO8E">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=PS6VzZiDjz4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ud7CaKCQqnk">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ULT4r8soXco">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=MI1e9-b2onk">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=HkVuilAAuf4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=uHozmUj8OWc">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=tJFGvyL98l0">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=MZrMh-eHmNI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=bF37JEvkbwE">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=pJFkDB_Zekg">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=z1_2h1gEjfU">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=HpWNPR416L0">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=8rkRYk-ME94">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=g2x30VvpBUU">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=VZlFZaI2myw">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=qAButNUZHrI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=DwHhi10HqT8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=GJNlXunuBx0">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=v_Dnpr6kqjQ">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=IQcePGw6qFs">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=HsUt-B8WnA8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=P18o7k1pjEE">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=gLvVzzlMdg4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ILUltmxWHBI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=BckzvX7P_5I">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=JwBr4sjtKuI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=HaLR8ydr9b4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=hQJ4drFoT2s">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=qJiiY-_IbOI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ivHw1ZpN2NI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=6An3lidNyls">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=s2UEdxWgv58">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=2JIDE5FprUw">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=orxTpvjTx44">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=koF2ZJSbpN4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=gxEINt9yUow">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=8KniB_22qCI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=_3CNbymhjDU">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=_7NUO-pFBi8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=hb17_6xxiU4">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=GTTzHC00ID8">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=qF2t4TSZ4DQ">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=mlDJsDXZmDQ">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Vz4vCEPtsyM">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=Ef4YN4gfgfI">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=IpwarIegJZo">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=NPdHmp0Hlfs">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=CA3NJP2my3g">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=KbJCa2YaXFs">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=ApAHvkvkURw">Visit our HTML tutorial</a></p>
-<p><a href="https://www.youtube.com/watch?v=2LkQGe0cGbM">Visit our HTML tutorial</a></p>
-
-</body>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+  <HTML>
+  <HEAD>
+    <META http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <TITLE>allah.com</TITLE>
+  </HEAD>
+  <FRAMESET rows="100%,*" border=0 frameborder=0 framespacing=0>
+        <FRAME name="top" src="http://www.google.com" noresize>
+  </FRAMESET>
+  </HTML>
